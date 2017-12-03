@@ -1,0 +1,11 @@
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\bin\Debug\netcoreapp2.0\VideoIndexerClient.deps.json
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\bin\Debug\netcoreapp2.0\VideoIndexerClient.runtimeconfig.json
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\bin\Debug\netcoreapp2.0\VideoIndexerClient.runtimeconfig.dev.json
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\bin\Debug\netcoreapp2.0\VideoIndexerClient.dll
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\bin\Debug\netcoreapp2.0\VideoIndexerClient.pdb
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.csproj.CoreCompileInputs.cache
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.AssemblyInfoInputs.cache
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.AssemblyInfo.cs
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.dll
+C:\Users\lupollma\Source\Repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.pdb
+C:\Users\lupollma\source\repos\04STT\VideoIndexerClient\obj\Debug\netcoreapp2.0\VideoIndexerClient.csprojResolveAssemblyReference.cache
